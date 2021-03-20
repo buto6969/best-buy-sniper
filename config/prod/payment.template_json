@@ -1,8 +1,8 @@
 {
-  "creditCardNumber": "5303280000098310",
-  "expirationMonth": "02",
-  "expirationYear": "2023",
-  "cvv": "298",
+  "creditCardNumber": "",
+  "expirationMonth": "",
+  "expirationYear": "",
+  "cvv": "",
   "firstName": "Elijah",
   "lastName": "Beachy",
   "address": "7381 State Route 39",
